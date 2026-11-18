@@ -96,5 +96,3 @@ atm-cash-forecasting/
 ## Autor
 
 **Johnny Alexander Rivera Palomares** — [@Alexandritoww](https://github.com/Alexandritoww)
-
-**Johnny Alexander Rivera Palomares** — [@Alexandritoww](https://github.com/Alexandritoww)
