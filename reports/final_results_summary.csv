@@ -1,0 +1,5 @@
+archivo,registros,columnas
+model_comparison.csv,15,5
+operational_simulation.csv,1077,8
+safety_stock_optimization.csv,18,9
+service_level_analysis.csv,180,10
